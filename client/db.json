@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "Aden",
+      "lastName": "wijaha",
+      "username": "adenwijaha@mail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "firstName": "Dini",
+      "lastName": "Arianti",
+      "username": "adenwijaha@mail.com",
+      "password": "235"
+    },
+    {
+      "id": 3,
+      "firstName": "Yohana",
+      "lastName": "Anggun",
+      "username": "yohana@mail.com",
+      "password": "678"
+    }
+  ]
+}
