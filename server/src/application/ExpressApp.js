@@ -30,8 +30,6 @@ export default class ExpressApp {
       app.listen(PORT, () => console.log(`Listening at Port ${PORT}`));
       this.dependencies.routers.forEach((router) => {
         app.use(router.url, router.create());
-        // console.log(router.url);
-        // app.use("/api/auth", router.create());
       });
     }
   }
